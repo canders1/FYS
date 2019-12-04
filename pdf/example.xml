@@ -1,0 +1,29 @@
+<tweet>
+	<metadata>
+		<id>32</id>
+		<account>
+			<name>DizhSa</name>
+			<url>https://twitter.com/DizhSa</url>
+		</account>
+		<date>4/5/2019</date>
+		<url>https://twitter.com/DizhSa/status/1114214883661352962</url>
+		<interaction>
+			<likes>5</likes>
+			<retweets>3</retweets>
+		</interaction>
+	</metadata>
+	<text>
+		<zap>Ra nde na tyop chon ra dishsa ni rgwe ra buny Ldua. Maru zyeiny buny ni rgwe Dizhsa.</zap>
+		<eng> Here are some indigenous languages spoken in Oaxaca. Zapotec is the most spoken.</eng>
+		<spa> Aquí están algunas lenguas originarias que se hablan en Oaxaca. El Zapoteco es el más hablado</spa> <hash>#usatuvoz</hash>
+		<hash>#IYIL2019</hash>
+	</text>
+	<img>
+		<description>map of Oaxacan languages</description>
+		<url>https://twitter.com/DizhSa/status/1114214883661352962/photo/1</url>
+	</img>
+	<notes>
+		<topic>languages of Oaxaca</topic>
+		<purpose>teaching</purpose>
+	</notes>
+</tweet>
